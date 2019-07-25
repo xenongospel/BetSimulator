@@ -6,20 +6,18 @@
   "scripts": {
     "test": "",
     "start": "webpack-dev-server --open --mode development",
-    "browser:sync": "gulp watch"
+    "webpack": "webpack --config webpack.config.js"
   },
   "keywords": [],
   "author": "Olufemi Adesina",
   "license": "ISC",
   "devDependencies": {
-    "babel-core": "^6.26.3",
-    "babel-preset-es2015": "^6.24.1",
-    "browser-sync": "^2.26.7",
-    "gulp-sass": "^4.0.2"
+    "webpack": "^4.37.0",
+    "webpack-cli": "^3.3.6",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack-dev-server": "^3.7.2"
   },
   "dependencies": {
-    "bootstrap": "^4.3.1",
-    "gulp": "^4.0.2",
     "jquery": "^3.4.1",
     "lodash": "^4.17.15"
   }
