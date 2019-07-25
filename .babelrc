@@ -1,0 +1,18 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env", // Based on NPM installed Babel preset env
+      {
+        "useBuiltIns": "entry", // Polyfill option enabled resolving use of core-js
+        "targets": {
+          "browsers": ["last 2 versions", "> 4% in GB"], // Browser List Query of supported browsers and the specific versions the app with function on
+          "node": "current", // Defines the node environment that babel will transpile for
+        },
+        "modules": false, // Babel option that prevents imports from being transpiled to require (Should be dealt with in webpack)
+      }
+    ]
+  ],
+  "plugins": [
+    "@babel/plugin-syntax-object-rest-spread", // Plugin that adds additional feature to use the es6 spread function on objects
+  ]
+}

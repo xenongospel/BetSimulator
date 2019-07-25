@@ -1,0 +1,198 @@
+[
+  {
+    "home": "Manchester United",
+    "away": "Chelsea",
+    "timeOfMatch": "",
+    "league": "Premier League",
+    "stadium": "Old Trafford",
+    "odds": {
+      "1x2": {
+        "home": "",
+        "draw": "",
+        "away": "",
+      },
+      "Double Chance": {
+        "1x": "",
+        "12": "",
+        "2x": ""
+      },
+      "Over/Under": {
+        "1.5": {
+          "Over": "",
+          "Under": ""
+        },
+        "2": {
+          "Over": "",
+          "Under": ""
+        },
+        "2.5": {
+          "Over": "",
+          "Under": ""
+        },
+        "3": {
+          "Over": "",
+          "Under": ""
+        },
+        "3.5": {
+          "Over": "",
+          "Under": ""
+        },
+      },
+      "Team Over/Under": {
+        "home": {
+          "0.5": {
+            "Over": "",
+            "Under": ""
+          },
+          "1": {
+            "Over": "",
+            "Under": ""
+          },
+          "1.5": {
+            "Over": "",
+            "Under": ""
+          },
+          "2": {
+            "Over": "",
+            "Under": ""
+          }
+        },
+        "away": {
+          "0.5": {
+            "Over": "",
+            "Under": ""
+          },
+          "1": {
+            "Over": "",
+            "Under": ""
+          },
+          "1.5": {
+            "Over": "",
+            "Under": ""
+          },
+          "2": {
+            "Over": "",
+            "Under": ""
+          }
+        }
+      },
+      "Both Team Score": {
+        "Yes": "",
+        "No": "",
+      }
+      // "Corner Over/Under": {
+      //   ""
+      // }
+    }
+  },
+  {
+    "home": "Arsenal",
+    "away": "Tottenham",
+    "timeOfMatch": "",
+    "league": "Premier League",
+    "stadium": "Emirates"
+  },
+  {
+    "home": "Liverpool",
+    "away": "Manchester City",
+    "timeOfMatch": "",
+    "league": "Premier League",
+    "stadium": "Anfield"
+  },
+  {
+    "home": "Barcelona",
+    "away": "Real Madrid",
+    "timeOfMatch": "",
+    "league": "La Liga Santander",
+    "stadium": "Nou Camp"
+  },
+  {
+    "home": "Juventus",
+    "away": "Napoli",
+    "timeOfMatch": "",
+    "league": "Serie A",
+    "stadium": "Turin Stadium"
+  },
+  {
+    "home": "PSV Eindhoven",
+    "away": "Ajax Amsterdam",
+    "timeOfMatch": "",
+    "league": "Eindhoven",
+    "stadium": "Amsterdam Arena"
+  },
+  {
+    "home": "Sangmu Sanju",
+    "away": "Gangwon",
+    "timeOfMatch": "",
+    "league": "K League 2",
+    "stadium": "Seoul Stadium"
+  },
+]
+
+// export const exampleMatchesExtended = [
+//   {
+//     "home": ,
+//     "away": ,
+//     "stadium": ,
+//     "timeOfMatch": ,
+//     "typeOfMatch": ,
+//     "league": ,
+//     "positionInTable": ,
+//     "prevMatches": [
+//       "home": {
+//         "won": ,
+//         "draw": ,
+//         "lose": ,
+//       },
+//       "away": {
+//         "won": ,
+//         "draw": ,
+//         "lose": ,
+//       }
+//     ],
+//     "prevMatchResults": [
+//       {
+//         "match": {
+//           "home": ,
+//           "away": ,
+//           "result": ,
+//           "scorers": {
+//             "home": {
+
+//             },
+//             "away": {
+
+//             }
+//           },
+//           "statistics": {
+//             "possession": {
+//               "home": ,
+//               "away": ,
+//             },
+//             "shots": {
+//               "onTarget": {
+//                 "home": ,
+//                 away; ,
+//               },
+//               "offTarget": {
+//                 "home": ,
+//                 "away": ,
+//               },
+//               "unaccounted": {
+//                 "home": ,
+//                 "away": ,
+//               }
+//             },
+//             "corners": {
+//               "home": ,
+//               "away": ,
+//             }
+//           }
+//         }
+//       }
+//     ]
+//   },
+//   {
+
+//   }
+// ]

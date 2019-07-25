@@ -1,0 +1,23 @@
+{
+  "name": "Xenon-Client-Static",
+  "version": "1.0.0",
+  "description": "Static version of the client side",
+  "main": "",
+  "scripts": {
+    "test": "",
+    "start": "webpack-dev-server --open --mode development",
+    "webpack": "webpack --config webpack.config.js"
+  },
+  "keywords": [],
+  "author": "Olufemi Adesina",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.37.0",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.7.2"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "lodash": "^4.17.15"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "aws": {
+    "secret-key": "",
+    "access-key": "",
+    "region": "eu-west-2"
+  }
+}
