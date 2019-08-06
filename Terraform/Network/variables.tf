@@ -1,0 +1,11 @@
+// GLOBAL VARIABLES
+variable SERVICE {}
+variable REGION {}
+variable ENVIRONMENT {}
+
+// LOCAL NETWORK VARIABLES
+variable MASK {}
+variable CIDR_BLOCK {}
+variable CIDR_BLOCK_PREFIX {}
+variable INTERNET_GATEWAY_ROUTE_IP_ADDRESS {}
+variable NAT_GATEWAY_ROUTE_IP_ADDRESS {}
